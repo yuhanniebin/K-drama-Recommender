@@ -38,3 +38,5 @@ We built a basic content-based recommendation system to suggest similar dramas u
 - TF-IDF Vectorization: Transforms textual metadata into weighted feature vectors.
 - Cosine Similarity: Measures how similar two K-dramas are.
 - Top 5 Recommendations: Based on similarity scores to a selected show.
+
+🔗 Link to article: https://ucladatares.medium.com/facts-behind-fantasy-dissecting-the-captivating-world-of-korean-dramas-8f4ed7605a08
